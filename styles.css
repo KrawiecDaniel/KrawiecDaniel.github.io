@@ -38,18 +38,4 @@ main {
 }
 
 section {
-    margin-bottom: 2em;
-}
 
-footer {
-    background-color: #007BFF;
-    color: white;
-    text-align: center;
-    padding: 1em;
-}
-
-#social-media a {
-    color: white;
-    text-decoration: none;
-    margin: 0 0.5em;
-}
